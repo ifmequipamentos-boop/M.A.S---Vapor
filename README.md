@@ -6,3 +6,7 @@ Crie um repositório público `mas-vapor` no GitHub. Envie `index.html` e `manif
 
 ## Aviso
 Os cálculos são estimativas educacionais, não substituem dimensionamento executivo ou validação por responsável técnico. O botão PDF usa o diálogo de impressão do navegador (no iOS, selecionar Compartilhar/Salvar em Arquivos como PDF quando disponível).
+
+
+## Versão 2
+Módulo adicional de orifício circular para vapor saturado: estimativas de vazão e diâmetro, com verificação de escoamento crítico. Modelo preliminar; não utilizar como dimensionamento executivo.
